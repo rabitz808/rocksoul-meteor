@@ -1,0 +1,107 @@
+@font-face {
+  font-family: test;
+  src: url("https://myrocksoul.com/font/BNKGOTHM.TTF");
+}
+
+.ui.inverted.segment {
+  background-color: black;
+}
+
+.ui.inverted.secondary.pointing.menu {
+  box-shadow: none;
+  border: none;
+  font-family: test, sans-serif;
+  font-weight: bold;
+  background-color: black;
+}
+
+.ui.secondary.pointing.menu .item {
+  margin-right: 4em;
+}
+
+.ui.secondary.inverted.pointing.menu .active.item {
+  border-color: #d10000;
+  font-family: test, sans-serif;
+  font-weight: bold;
+}
+
+h2.ui.header {
+  color: #d10000;
+  font-family: test, sans-serif;
+  font-weight: bold;
+  font-size: 39px;
+}
+
+h4.ui.header {
+  color: #d10000;
+  font-family: test, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.3em;
+}
+
+h2 {
+  color: #d10000;
+  font-family: test, sans-serif;
+  font-weight: bold;
+  font-size: 39px;
+}
+
+.fontsize {
+  font-size: 39px;
+  margin-bottom: 0;
+  background-color: black;
+}
+
+.smallfontsize {
+  margin-top: 0;
+  margin-bottom: 100px;
+  background-color: black;
+}
+
+h4 {
+  color: #d10000;
+  font-family: test, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.3em;
+}
+
+.ui.left.aligned.container {
+  padding-bottom: 20em;
+}
+
+a {
+  color: white;
+}
+
+.ui.link.list .item, .ui.link.list .item a:not(.ui), .ui.link.list a.item {
+  color: rgb(125 125 125);
+}
+
+.black {
+  background-color: black;
+  color: white;
+  margin-top: 50px;
+  font-family: test, sans-serif;
+}
+
+.black2 {
+  background-color: black;
+  color: white;
+  font-family: test, sans-serif;
+}
+
+.footer {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  background-color: black;
+  color: white;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: test, sans-serif;
+  font-weight: bold;
+}
